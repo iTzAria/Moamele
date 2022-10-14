@@ -1,0 +1,18 @@
+Token: 'OTg1MTgxMzY2ODMwMzgzMTk1.GZOJqs.cP8IICOY7QualZkkkGG779zCC3qy8q6VLPPdRk'
+Prefix: '?'
+
+Activity:
+  Type: 'LISTENING'
+  Name: 'Music'
+
+Color: "#ff7200"
+Error: "#cd1821"
+TicketCategory: "1030459197546041404"
+
+MemberCount: 
+  Channel: '1030480114879840267'
+  Format: 'Server Members Count: {members}'
+
+Roles:
+  Red: '944861544544628747'
+  Blue: '944861539683418132'

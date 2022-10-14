@@ -1,0 +1,13 @@
+{
+  "name": "Moamele-Apply-Bot",
+  "version": "1.0",
+  "description": "Moamele.Net Discord Bot",
+  "main": "bot.js",
+  "author": "iTz Aria",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord.js": "13.6.0",
+    "js-yaml": "^4.1.0",
+    "wio.db": "^4.0.22"
+  }
+}
